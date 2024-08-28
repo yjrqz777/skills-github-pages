@@ -1,3 +1,6 @@
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./emoji.html).
 
 Emoji表情
 =========
