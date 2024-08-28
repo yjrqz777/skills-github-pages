@@ -1,13 +1,13 @@
-const swPath = "/sw.js";
+const swPath = "/skills-github-pages/sw.js";
 const preCache = [
-  "/images/taichi.png",
-  "/images/banner.webp",
-  "/images/taichi-fill.png",
-  "/css/loader.css",
-  "/css/style.css",
-  "/js/script.js",
+  "/skills-github-pages/images/taichi.png",
+  "/skills-github-pages/images/banner.webp",
+  "/skills-github-pages/images/taichi-fill.png",
+  "/skills-github-pages/css/loader.css",
+  "/skills-github-pages/css/style.css",
+  "/skills-github-pages/js/script.js",
 ];
-const VERSION = "1724836318653";
+const VERSION = "1724836758058";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
