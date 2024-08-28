@@ -1,6 +1,3 @@
-title: [Y J R Q Z 7 7 7 :sparkles:_]
-description: [A short description ! :heart: :cowboy_hat_face:_ ]
-
 
 Emoji表情
 =========
