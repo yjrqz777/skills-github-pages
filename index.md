@@ -1,6 +1,8 @@
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./emoji.html).
+[emoji](./emoji.html).
+[_posts/2024-08-27-啊test.md](./_posts/2024-08-27-啊test.html).
+
 
 Emoji表情
 =========
