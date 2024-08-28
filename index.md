@@ -1,7 +1,8 @@
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [emoji](./emoji.html).  
-[_posts/2024-08-27-啊test.md](./_posts/2024-08-27-啊test.html).
+[emoji](./emoji.md).  
+[posts/2024-08-27-啊test.md](./posts/2024-08-27-啊test.html).
 
 
 Emoji表情
